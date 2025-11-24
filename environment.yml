@@ -1,0 +1,6 @@
+name: dsci522-dockerfile-practice
+channels:
+  - conda-forge
+dependencies:
+  - altair=5.1.2
+  - python=3.11.6
